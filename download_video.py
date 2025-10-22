@@ -1,16 +1,4 @@
 
- 
-                 _________.____     
-                /         |    |    
-               |  D I E AN  |  |    
-               |  _________|  |    
-               |____   _  |  |____
-               |     |_| |  |    |
-               |_________|  |____|
-  
-             File Enskrip Python Canggih by. Diean XD
-             ----------------------------------------
-    
 import zlib, base64, codecs, sys
 
 # Obfuscated payload: zlib.compress -> base64.b64encode -> hex().encode() -> rot13(str).encode()
